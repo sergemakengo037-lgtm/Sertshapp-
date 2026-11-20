@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "SERTSHAPP",
+    "slug": "sertshapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0B65D8"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sertshapp.app"
+    },
+    "android": {
+      "package": "com.sertshapp.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B65D8"
+      }
+    }
+  }
+}
